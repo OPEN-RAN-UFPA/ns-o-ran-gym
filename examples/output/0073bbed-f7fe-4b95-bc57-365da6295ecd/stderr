@@ -1,0 +1,5 @@
+Running the scenario with no Energy Heuristic
+Hierarchical Simulation Starting. Time: 10 seconds. Control File: 'hierarchical_actions.csv' Heuristic: -1
+Fragment too small in txonBuffer, pos 1
+Too small, not forwarded
+Fragment too small in txonBuffer, pos 1
